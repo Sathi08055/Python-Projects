@@ -1,0 +1,17 @@
+{
+    "results": {
+        "date": "2025-05-16",
+        "sunrise": "5:56:31 AM",
+        "sunset": "6:31:13 PM",
+        "first_light": "4:41:35 AM",
+        "last_light": "7:46:10 PM",
+        "dawn": "5:34:11 AM",
+        "dusk": "6:53:33 PM",
+        "solar_noon": "12:13:52 PM",
+        "golden_hour": "6:01:54 PM",
+        "day_length": "12:34:42",
+        "timezone": "Asia/Kolkata",
+        "utc_offset": 330
+    },
+    "status": "OK"
+}
